@@ -1,0 +1,8 @@
+---
+name: Ramadan
+version: 1.0.0-beta
+main: wax_dev\Ramadan\Main
+author: wax_dev
+api: 5.15.0
+src-namespace-prefix: wax_dev\Ramadan
+...
